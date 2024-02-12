@@ -10,3 +10,7 @@ I am following _this tutorual:_ [https://www.hotrails.dev/turbo-rails/turbo-rail
 * needed to add gem executable dir to path and install foreman so bin/dev would actually work
 * needed to reinstall pg gem to pick up new postgres version
 * had to run `bin/rails db:create`
+* had some issues getting my IDE to recognize simple form
+* had to `brew install foreman`
+* added [this shell script](https://github.com/nvm-sh/nvm?tab=readme-ov-file#zsh) to automatically load nvm node version whenever I chdir
+* 
